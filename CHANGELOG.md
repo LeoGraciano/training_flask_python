@@ -4,7 +4,7 @@ Documentação das principapis alterações sofridas por esses conjunto de dados
 
 ### [0.1.2.1] - 2021-11-16
 
-- Fix labels
+- Fix labels e mudança de estrutura das views
 ### [0.1.2] - 2021-11-16
 
 - Crianção template base home
