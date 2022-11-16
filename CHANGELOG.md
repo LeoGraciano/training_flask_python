@@ -2,6 +2,9 @@
 
 Documentação das principapis alterações sofridas por esses conjunto de dados de acordo com a base no [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+### [0.1.2.1] - 2021-11-16
+
+- Fix labels
 ### [0.1.2] - 2021-11-16
 
 - Crianção template base home
