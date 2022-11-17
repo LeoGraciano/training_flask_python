@@ -1,7 +1,11 @@
 ## Controle de Alterações
 
-Documentação das principapis alterações sofridas por esses conjunto de dados de acordo com a base no [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
+Documentação das principais alterações sofridas por esses conjunto de dados de acordo com a base no [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+
+### [0.1.3.1] - 2021-11-17
+
+- Crianção dos formulários de login e sign up
 
 ### [0.1.3] - 2021-11-17
 
