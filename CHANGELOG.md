@@ -2,6 +2,9 @@
 
 Documentação das principais alterações sofridas por esses conjunto de dados de acordo com a base no [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+### [0.1.3.2] - 2021-11-17
+
+- Usando request para busca informações do formulários
 
 ### [0.1.3.1] - 2021-11-17
 
